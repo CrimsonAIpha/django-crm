@@ -33,14 +33,14 @@ Make sure you have installed Python 3.10+, PostgreSQL with pgAdmin, and Git.
 
 ### 2️⃣ Setup Instructions
 
-git clone https://github.com/YOUR_USERNAME/machine_test.git
-cd machine_test
-python -m venv venv
-venv\Scripts\activate # For Windows PowerShell
+- git clone https://github.com/YOUR_USERNAME/machine_test.git
+- cd machine_test
+- python -m venv venv
+- venv\Scripts\activate # For Windows PowerShell
 
 OR
-source venv/bin/activate # For Mac/Linux
-pip install -r requirements.txt
+- source venv/bin/activate # For Mac/Linux
+- pip install -r requirements.txt
 
 
 ---
