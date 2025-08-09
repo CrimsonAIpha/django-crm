@@ -16,13 +16,13 @@ This is a Django REST API project with PostgreSQL as the database. It supports c
 ---
 
 ## 📂 Project Structure
-machine_test/
+'''machine_test/
 │
 ├── api/ # API app with views, serializers, and URLs
 ├── machine_test/ # Main Django project settings
 ├── manage.py # Django project manager
 ├── requirements.txt # Python dependencies
-└── README.md # Documentation
+└── README.md # Documentation'''
 
 ---
 
