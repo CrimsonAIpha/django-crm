@@ -54,7 +54,7 @@ OR
 - Create a user with a username and password.
 - Give the user all privileges on `machine_db`.
 - Update `machine_test/settings.py`:
-   DATABASES = {
+ ```  DATABASES = {
 'default': {
 'ENGINE': 'django.db.backends.postgresql',
 'NAME': 'machine_db',
@@ -64,6 +64,7 @@ OR
 'PORT': '5432',
 }
 }
+```
 
 ---
 
